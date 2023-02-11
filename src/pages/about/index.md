@@ -8,7 +8,7 @@ Being raised on the red clay river banks of North Georgia, his original music 
 \
 As a new Georgia artist, he is no stranger to music and has been performing since he was 9 years old with ensembles around the world, for over 25 years, and achieved a degree in music during that time. Now, he is taking his songwriting into the spotlight and making a huge impact on the North Georgia Music scene. Recently winning the Georgia Songbirds Showdown, earning the #7 spot on the "Weekly Top 10 Countdown" for the Georgia Songbirds weekly countdown on Indie radio. 
 
-\[![IMAGE_ALT](https://www.youtube.com/watch?v=_1AGcPRqdkM/0.jpg)](https://www.youtube.com/watch?v=_1AGcPRqdkM)
+\[![IMAGE_ALT](https://img.youtube.com/vi/_1AGcPRqdkM/0.jpg)](https://www.youtube.com/watch?v=_1AGcPRqdkM)
 
 
 
