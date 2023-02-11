@@ -1,19 +1,23 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
-title: About our values
+title: Who is Spencer Scott Smith?
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+Spencer Scott Smith is a Georgia born artist with a Mississippi twist. If you like a little edge on your country, peppered with blues, R&B, and a big helping of soul, then search no more!\
+Being raised on the red clay river banks of North Georgia, his original music drips with smooth melodies and imagery that will make you curious; "have I heard that song before?" The catchy originals are wrapped in an eclectic assorted of some the best songs/artists you forgot you loved - spanning across decades and genres; John Cougar Mellencamp, Marcy's Playground, Ottis Redding, Sam Cooke, BareNaked Ladies, Eric Clapton, David Allen Coe, The Black Crowes, and more!\
+\
+As a new Georgia artist, he is no stranger to music and has been performing since he was 9 years old with ensembles around the world, for over 25 years, and achieved a degree in music during that time. Now, he is taking his songwriting into the spotlight and making a huge impact on the North Georgia Music scene. Recently winning the Georgia Songbirds Showdown, earning the #7 spot on the "Weekly Top 10 Countdown" for the Georgia Songbirds weekly countdown on Indie radio. 
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1AGcPRqdkM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### Links
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+[Facebook - Spencer Scott Smith Music](https://www.facebook.com/spencerscottsmithmusic)\
+[YouTube  -  Spencer Scott Smith Music](https://www.youtube.com/channel/UCGu0g-Knj2tZ6KXf41QnIfw)[Instagram - SpencerScottSmith_Music](http://www.instagram.com/spencerscottsmith_music)\
+[Alighnable - Spencer Scott Smith Music](https://www.alignable.com/woodstock-ga/spencer-smith-music)
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+### Contact Info
+
+770.868.9719\
+[Spen.s.smith@gmail.com](mailto:Spen.s.smith@gmail.com)\
+Or message me on Facebook or Instagram!
